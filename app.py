@@ -212,6 +212,7 @@ if selected=="status":
                     st.write("## :green[Status is Won]")
                 else:
                     st.write("##:red[Status is Lost]")
+st.write( f'<h6 style="color:rgb(0, 153, 153,0.35);">App Created by Sandy</h6>', unsafe_allow_html=True )
 
 
 
